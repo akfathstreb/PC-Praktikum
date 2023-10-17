@@ -1,0 +1,9 @@
+x<-c(0,4,8,12)
+y<-c(2,6,-3,1)
+z<-3*y^2+x/4
+t<-c(x,y)
+h<-exp(y)
+v<-cumsum(y)
+f1<-seq(1,15)
+f2<-seq(8,20,by=2)
+f3<-seq(1,4,length=51)
